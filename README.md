@@ -25,3 +25,5 @@ cd ..
 rm -rf aks-nginx002/
 
 
+
+
